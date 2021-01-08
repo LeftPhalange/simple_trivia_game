@@ -2,7 +2,7 @@
 
 This is simple_trivia_game, which is a C#/.NET Core console application that utilizes the Open Trivia Database API (https://opentdb.com/).
 
-I got bored one afternoon -- while people were storming the Capitol, I thought of creating a simple trivia game that can keep my mind sharp in more ways than one.
+I got bored one afternoon -- so I conceived the idea of creating a simple trivia game that can keep my mind sharp in more ways than one.
 
 If you want to play the pre-built game for yourself, check Releases on the GitHub page. And if you want to mess with the source, there it is. Any contributions are welcome and appreciated.
 
